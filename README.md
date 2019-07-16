@@ -1,0 +1,2 @@
+# Dietector
+Dietector merupakan aplikasi yang membantu mengatasi permasalahan kesehatan sistem pencernaan dan mengontrol berat badan pengguna. Diectector dilengkapi dengan menu cek berat badan ideal yang menerapkan perhitungan BMI (Body Mass Index) dan menu konsultasi yang didasarkan pada metode CBR (Case Based Reasoning) sistem pencernaan dan mengontrol berat badan pengguna. Diectector dilengkapi dengan menu cek berat badan ideal yang menerapkan perhitungan BMI (Body Mass Index) dan menu konsultasi yang didasarkan pada metode CBR (Case Based Reasoning)
